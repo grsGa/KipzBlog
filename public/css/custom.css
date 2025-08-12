@@ -7,6 +7,7 @@
     content: "\f05a";
 }
 
+/* 自定义鼠标特效动画样式 */
 .text-popup {
     animation: textPopup 1s;
     color: red;
